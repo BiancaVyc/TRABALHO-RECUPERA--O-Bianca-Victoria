@@ -1,0 +1,36 @@
+
+body{
+	color: #500e3f;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	background-color: rgb(220, 172, 252);
+	font-style: normal;
+	margin-left: auto;
+	margin-right:auto;
+	width: 940px;
+}
+h1{
+	
+	text-align: center;
+
+}
+h2{
+	border-bottom: 2px solid #640b38;
+	text-align: center;
+} 
+
+.bottom{ 
+    text-align: center;
+    a
+}
+
+
+image{
+
+	/*background-color: #f2eded;*/
+	border:1px solid #570c50;
+	text-align: center;
+}
+
+figcaption{
+	font-style: italic;
+}
